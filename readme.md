@@ -11,5 +11,3 @@ Here you'll find:
 - `Force_components_afmtip.ipynb` : Jupyter notebook script to get **force qf, db, ib components** plotted between several distances between capsid and tip
 - `Forcesqf_afmtip.ipynb` : Jupyter notebook script to get **force qf component** plotted between several aminoacid in slices of capsid
 - `generate_vtk_afmtip.py`: Python script which generate the .vtk file who visualize the boundary forces on capsid surface
-- `F_terms.txt` : Text file who contains the values of all force components at a distance of 2 angstrom between capsid and tip
-- `boundary_forces_zika.txt` : Text file who contains the boundary forces values between several distances 
